@@ -1,4 +1,4 @@
-### Olá, me chamo Wallace Leonardo! 
+### Olá, me chamo Wallace Leonardo, sou desenvolvedor front-end! 
 
 -📚 Estudando: JavaScript, React, NodeJS, HTML e CSS.
 
