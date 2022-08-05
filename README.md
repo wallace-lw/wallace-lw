@@ -1,6 +1,6 @@
 ### Olá, me chamo Wallace Leonardo e sou desenvolvedor front-end! 
 
--📚 Estudando: JavaScript, React, NodeJS, TypeScript, HTML e CSS.
+-📚 Estudando: JavaScript, React, NextJS, TypeScript, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/WallaceLeonhard">
