@@ -1,6 +1,7 @@
-### Olá, me chamo Wallace Leonardo e sou desenvolvedor front-end! 
+### Desenvolvedor Frontend aprimorando habilidades na criação de interfaces bonitas e intuitivas com funcionalidades integradas com API 's REST.
 
--📚 Estudando: JavaScript, React, NextJS, TypeScript, HTML e CSS.
+ JavaScript, React, NextJS, TypeScript, HTML e CSS.
+ - 📖 Estudando NodeJS
 
 <div align="center">
   <a href="https://github.com/WallaceLeonhard">
