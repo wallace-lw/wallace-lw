@@ -1,6 +1,6 @@
 ### Desenvolvedor Frontend aprimorando habilidades na criação de interfaces bonitas e intuitivas com funcionalidades integradas com API 's REST.
 
- JavaScript, React, NextJS, TypeScript, HTML e CSS.
+Proeficiente em JavaScript, React, NextJS, TypeScript, HTML e CSS.
  - 📖 Estudando NodeJS
 
 <div align="center">
