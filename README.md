@@ -4,7 +4,7 @@ Proeficiente em JavaScript, React, NextJS, TypeScript, HTML e CSS.
  - 📖 Estudando NodeJS
 
 <div align="center">
-  <a href="https://github.com/WallaceLeonhard">
+  <a href="https://github.com/wallace-lw">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallace-lw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-lw&layout=compact&langs_count=7&theme=dracula"/>
 </div>
