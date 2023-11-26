@@ -1,7 +1,7 @@
 ### Desenvolvedor Frontend aprimorando habilidades na criação de interfaces intuitivas com funcionalidades integradas com API 's REST.
 
-Proeficiente em JavaScript, React, NextJS, TypeScript, HTML e CSS.
- - 📖 Estudando NodeJS
+Proeficiente em JavaScript, React, NextJS, TypeScript, NodeJS, Express, HTML e CSS.
+ 
 
 <div align="center">
   <a href="https://github.com/wallace-lw">
