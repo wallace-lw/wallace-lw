@@ -1,7 +1,4 @@
-### Desenvolvedor Frontend aprimorando habilidades na criação de interfaces intuitivas com funcionalidades integradas com API 's REST.
-
-Proeficiente em JavaScript, React, NextJS, TypeScript, NodeJS, Express, HTML e CSS.
- 
+### Desenvolvedor com mais de 2 anos de experiência no mercado de desenvolvimento web, focado ao front-end com a mesma paixão e dedicação que me acompanham desde o início da minha carreira. Minhas habilidades técnicas incluem HTML5, CSS3, JavaScript e Typescript, frameworks como React, Next e Vue, ferramentas de desenvolvimento como Git e Figma com foco em tecnologias que possibilitam criação de interfaces avançadas, adicionando acessibilidade para todos. Sou capaz de trabalhar em equipe, com excelentes habilidades de comunicação e colaboração.
 
 <div align="center">
   <a href="https://github.com/wallace-lw">
