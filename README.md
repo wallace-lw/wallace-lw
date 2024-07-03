@@ -1,4 +1,4 @@
-### Desenvolvedor com mais de 2 anos de experiência no mercado de desenvolvimento web, focado ao front-end com a mesma paixão e dedicação que me acompanham desde o início da minha carreira. Minhas habilidades técnicas incluem HTML5, CSS3, JavaScript e Typescript, frameworks como React, Next e Vue, ferramentas de desenvolvimento como Git e Figma com foco em tecnologias que possibilitam criação de interfaces avançadas, adicionando acessibilidade para todos. Sou capaz de trabalhar em equipe, com excelentes habilidades de comunicação e colaboração.
+### Desenvolvedor com mais de 2 anos de experiência no mercado de desenvolvimento web, com a mesma paixão e dedicação que me acompanham desde o início da minha carreira. Minhas habilidades técnicas incluem HTML5, CSS3, NodeJS, JavaScript e Typescript, frameworks como React, Next e Vue, ferramentas de desenvolvimento como Git e Figma com foco em tecnologias que possibilitam criação de interfaces avançadas, adicionando acessibilidade para todos. Sou capaz de trabalhar em equipe, com excelentes habilidades de comunicação e colaboração.
 
 <div align="center">
   <a href="https://github.com/wallace-lw">
